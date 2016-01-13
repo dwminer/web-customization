@@ -1,0 +1,16 @@
+@-moz-document domain("www.youtube.com") {
+div#watch-discussion
+{
+    display: none;
+}
+
+div#watch-description-text
+{
+    max-height: none!important;
+}
+
+button.yt-uix-button.yt-uix-button-expander
+{
+    display: none;
+}
+}

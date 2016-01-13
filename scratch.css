@@ -1,0 +1,9 @@
+@-moz-document domain("scratch.mit.edu") {
+.moderator-only {
+	background-color: transparent;
+}
+
+.postsignature {
+  display:none;
+}
+}

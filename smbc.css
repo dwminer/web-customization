@@ -1,0 +1,5 @@
+@-moz-document domain("smbc-comics.com") {
+div#aftercomic {
+  display: block !important;
+}
+}
