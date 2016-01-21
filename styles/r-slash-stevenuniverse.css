@@ -1,0 +1,20 @@
+@-moz-document url-prefix("https://www.reddit.com/r/stevenuniverse") {
+.flair
+{
+    text-indent: 0 !important;
+    width: auto !important;
+    height: auto !important;
+    padding: 0;
+    font-size: 12px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 0.1em;
+}
+
+a[href$="#su-pearlhappy"], .flair-167pearlhappy {
+    animation: none;
+    animation-iteration-count: 0;
+    -webkit-animation-iteration-count: 0;
+    background: url("//b.thumbs.redditmedia.com/SCu5xBcPe1UKPkEt-ozSe1VyFAig3zhtYBTHO6JDufo.png") -928px 0px;
+}
+}
