@@ -13,4 +13,9 @@ button.yt-uix-button.yt-uix-button-expander
 {
     display: none;
 }
+
+div#watch7-sidebar-discussion
+{
+    display: none;
+}
 }
