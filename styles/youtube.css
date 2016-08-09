@@ -18,4 +18,9 @@ div#watch7-sidebar-discussion
 {
     display: none;
 }
+
+div.watch-sidebar-gutter
+{
+    display: none;
+}
 }
